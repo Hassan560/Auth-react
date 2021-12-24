@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Auth-react/static/css/main.f632717a.css",
+    "main.js": "/Auth-react/static/js/main.a403ac70.js",
+    "static/js/787.cfd8f164.chunk.js": "/Auth-react/static/js/787.cfd8f164.chunk.js",
+    "index.html": "/Auth-react/index.html",
+    "main.f632717a.css.map": "/Auth-react/static/css/main.f632717a.css.map",
+    "main.a403ac70.js.map": "/Auth-react/static/js/main.a403ac70.js.map",
+    "787.cfd8f164.chunk.js.map": "/Auth-react/static/js/787.cfd8f164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f632717a.css",
+    "static/js/main.a403ac70.js"
+  ]
+}
